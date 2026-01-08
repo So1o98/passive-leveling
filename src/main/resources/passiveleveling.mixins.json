@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "passive.leveling.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ExampleMixin",
+    "FishingBobberMixin",
+    "ItemStackMixin",
+    "LivingEntityMixin",
+    "MiningToolMixin",
+    "PlayerEntityMixin",
+    "TieredRecipeLockMixin",
+    "CraftingScreenHandlerMixin"
+
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

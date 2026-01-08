@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "passiveleveling",
+	"version": "${version}",
+	"name": "passiveleveling",
+	"description": "Adds an RPG Leveling system to items in game",
+	"authors": [
+		"So1o"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/passiveleveling/icon.png",
+	"environment": "*",
+  "entrypoints": {
+    "main": [
+      "passive.leveling.PassiveLeveling"
+    ],
+    "client": [
+      "passive.leveling.PassiveLevelingClient"
+    ],
+    "modmenu": [
+      "passive.leveling.PassiveLevelingModMenu"
+    ]
+  },
+	"mixins": [
+		"passiveleveling.mixins.json",
+		{
+			"config": "passiveleveling.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
