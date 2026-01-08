@@ -1,0 +1,108 @@
+{
+  "text.autoconfig.passiveleveling.title": "Passive Leveling Config",
+
+  "text.autoconfig.passiveleveling.category.leveling": "Leveling Settings",
+  "text.autoconfig.passiveleveling.category.rewards": "XP Rewards",
+  "text.autoconfig.passiveleveling.category.restrictions": "Game Restrictions",
+
+  "text.autoconfig.passiveleveling.option.rewards.min_level_up_coins": "Min. Bronze Coins (Level Up)",
+  "text.autoconfig.passiveleveling.option.rewards.min_level_up_coins.@Tooltip": "Minimum amount of bronze coins given when leveling up.",
+  "text.autoconfig.passiveleveling.option.rewards.min_level_up_coins.tooltip": "Minimum amount of bronze coins given when leveling up.",
+
+  "text.autoconfig.passiveleveling.option.rewards.max_level_up_coins": "Max. Bronze Coins (Level Up)",
+  "text.autoconfig.passiveleveling.option.rewards.max_level_up_coins.@Tooltip": "Maximum amount of bronze coins given when leveling up.",
+  "text.autoconfig.passiveleveling.option.rewards.max_level_up_coins.tooltip": "Maximum amount of bronze coins given when leveling up.",
+
+  "text.autoconfig.passiveleveling.option.rewards.tier_upgrade_silver_coins": "Silver Coins (Tier Upgrade)",
+  "text.autoconfig.passiveleveling.option.rewards.tier_upgrade_silver_coins.@Tooltip": "Amount of silver coins given when upgrading a tool tier.",
+  "text.autoconfig.passiveleveling.option.rewards.tier_upgrade_silver_coins.tooltip": "Amount of silver coins given when upgrading a tool tier.",
+
+  "text.autoconfig.passiveleveling.option.leveling.base_xp_cost": "Base XP Cost (Level 0-1)",
+  "text.autoconfig.passiveleveling.option.leveling.base_xp_cost.@Tooltip": "The amount of XP required to go from Level 0 to 1.",
+  "text.autoconfig.passiveleveling.option.leveling.base_xp_cost.tooltip": "The amount of XP required to go from Level 0 to 1.",
+
+  "text.autoconfig.passiveleveling.option.leveling.xp_cost_multiplier": "XP Cost Multiplier (Exponential)",
+  "text.autoconfig.passiveleveling.option.leveling.xp_cost_multiplier.@Tooltip": "Multiplies the XP cost by this amount every level.",
+  "text.autoconfig.passiveleveling.option.leveling.xp_cost_multiplier.tooltip": "Multiplies the XP cost by this amount every level.",
+
+  "text.autoconfig.passiveleveling.option.leveling.flat_xp_increase": "Flat XP Increase (Linear)",
+  "text.autoconfig.passiveleveling.option.leveling.flat_xp_increase.@Tooltip": "Adds this much XP to the requirement every level.",
+  "text.autoconfig.passiveleveling.option.leveling.flat_xp_increase.tooltip": "Adds this much XP to the requirement every level.",
+
+  "text.autoconfig.passiveleveling.option.leveling.enable_level_up_enchantments": "Enable Level Up Enchantments",
+  "text.autoconfig.passiveleveling.option.leveling.enable_level_up_enchantments.@Tooltip": "If enabled, tools will gain random enchantments when leveling up.",
+  "text.autoconfig.passiveleveling.option.leveling.enable_level_up_enchantments.tooltip": "If enabled, tools will gain random enchantments when leveling up.",
+
+  "text.autoconfig.passiveleveling.option.leveling.bow_enchant_interval": "Bow Enchant Interval (Levels)",
+  "text.autoconfig.passiveleveling.option.leveling.bow_enchant_interval.@Tooltip": "How often Bows/Crossbows get a new enchantment.",
+  "text.autoconfig.passiveleveling.option.leveling.bow_enchant_interval.tooltip": "How often Bows/Crossbows get a new enchantment.",
+
+  "text.autoconfig.passiveleveling.option.leveling.rod_enchant_interval": "Rod Enchant Interval (Levels)",
+  "text.autoconfig.passiveleveling.option.leveling.rod_enchant_interval.@Tooltip": "How often Fishing Rods get a new enchantment.",
+  "text.autoconfig.passiveleveling.option.leveling.rod_enchant_interval.tooltip": "How often Fishing Rods get a new enchantment.",
+
+  "text.autoconfig.passiveleveling.option.leveling.prestige_level_requirement": "Prestige Level Requirement",
+  "text.autoconfig.passiveleveling.option.leveling.prestige_level_requirement.@Tooltip": "The level a tool must reach to prestige.",
+  "text.autoconfig.passiveleveling.option.leveling.prestige_level_requirement.tooltip": "The level a tool must reach to prestige.",
+
+  "text.autoconfig.passiveleveling.option.leveling.soulbound_level": "Soulbound Level",
+  "text.autoconfig.passiveleveling.option.leveling.soulbound_level.@Tooltip": "The level at which a tool stays in your inventory after death.",
+  "text.autoconfig.passiveleveling.option.leveling.soulbound_level.tooltip": "The level at which a tool stays in your inventory after death.",
+
+  "text.autoconfig.passiveleveling.option.leveling.enable_title_prefixes": "Enable Title Prefixes (Novice, Master...)",
+  "text.autoconfig.passiveleveling.option.leveling.enable_title_prefixes.@Tooltip": "Shows titles in the tool tooltip.",
+  "text.autoconfig.passiveleveling.option.leveling.enable_title_prefixes.tooltip": "Shows titles in the tool tooltip.",
+
+  "text.autoconfig.passiveleveling.option.leveling.pickaxe_milestones": "+ Pickaxe Milestones",
+  "text.autoconfig.passiveleveling.option.leveling.pickaxe_milestones.wood_to_stone": "Wood -> Stone Level",
+  "text.autoconfig.passiveleveling.option.leveling.pickaxe_milestones.stone_to_iron": "Stone -> Iron Level",
+  "text.autoconfig.passiveleveling.option.leveling.pickaxe_milestones.iron_to_diamond": "Iron -> Diamond Level",
+  "text.autoconfig.passiveleveling.option.leveling.pickaxe_milestones.diamond_to_netherite": "Diamond -> Netherite Level",
+
+  "text.autoconfig.passiveleveling.option.leveling.sword_milestones": "+ Sword Milestones",
+  "text.autoconfig.passiveleveling.option.leveling.sword_milestones.wood_to_stone": "Wood -> Stone Level",
+  "text.autoconfig.passiveleveling.option.leveling.sword_milestones.stone_to_iron": "Stone -> Iron Level",
+  "text.autoconfig.passiveleveling.option.leveling.sword_milestones.iron_to_diamond": "Iron -> Diamond Level",
+  "text.autoconfig.passiveleveling.option.leveling.sword_milestones.diamond_to_netherite": "Diamond -> Netherite Level",
+
+  "text.autoconfig.passiveleveling.option.leveling.axe_milestones": "+ Axe Milestones",
+  "text.autoconfig.passiveleveling.option.leveling.axe_milestones.wood_to_stone": "Wood -> Stone Level",
+  "text.autoconfig.passiveleveling.option.leveling.axe_milestones.stone_to_iron": "Stone -> Iron Level",
+  "text.autoconfig.passiveleveling.option.leveling.axe_milestones.iron_to_diamond": "Iron -> Diamond Level",
+  "text.autoconfig.passiveleveling.option.leveling.axe_milestones.diamond_to_netherite": "Diamond -> Netherite Level",
+
+  "text.autoconfig.passiveleveling.option.leveling.shovel_milestones": "+ Shovel Milestones",
+  "text.autoconfig.passiveleveling.option.leveling.shovel_milestones.wood_to_stone": "Wood -> Stone Level",
+  "text.autoconfig.passiveleveling.option.leveling.shovel_milestones.stone_to_iron": "Stone -> Iron Level",
+  "text.autoconfig.passiveleveling.option.leveling.shovel_milestones.iron_to_diamond": "Iron -> Diamond Level",
+  "text.autoconfig.passiveleveling.option.leveling.shovel_milestones.diamond_to_netherite": "Diamond -> Netherite Level",
+
+  "text.autoconfig.passiveleveling.option.leveling.hoe_milestones": "+ Hoe Milestones",
+  "text.autoconfig.passiveleveling.option.leveling.hoe_milestones.wood_to_stone": "Wood -> Stone Level",
+  "text.autoconfig.passiveleveling.option.leveling.hoe_milestones.stone_to_iron": "Stone -> Iron Level",
+  "text.autoconfig.passiveleveling.option.leveling.hoe_milestones.iron_to_diamond": "Iron -> Diamond Level",
+  "text.autoconfig.passiveleveling.option.leveling.hoe_milestones.diamond_to_netherite": "Diamond -> Netherite Level",
+
+  "text.autoconfig.passiveleveling.option.rewards.stone_xp": "Stone XP",
+  "text.autoconfig.passiveleveling.option.rewards.coal_xp": "Coal XP",
+  "text.autoconfig.passiveleveling.option.rewards.copper_xp": "Copper XP",
+  "text.autoconfig.passiveleveling.option.rewards.iron_xp": "Iron XP",
+  "text.autoconfig.passiveleveling.option.rewards.gold_xp": "Gold XP",
+  "text.autoconfig.passiveleveling.option.rewards.lapis_xp": "Lapis XP",
+  "text.autoconfig.passiveleveling.option.rewards.redstone_xp": "Redstone XP",
+  "text.autoconfig.passiveleveling.option.rewards.diamond_xp": "Diamond XP",
+  "text.autoconfig.passiveleveling.option.rewards.emerald_xp": "Emerald XP",
+  "text.autoconfig.passiveleveling.option.rewards.quartz_xp": "Quartz XP",
+  "text.autoconfig.passiveleveling.option.rewards.wood_xp": "Wood XP",
+  "text.autoconfig.passiveleveling.option.rewards.passive_mob_xp": "Passive Mob XP",
+  "text.autoconfig.passiveleveling.option.rewards.hostile_mob_xp": "Hostile Mob XP",
+  "text.autoconfig.passiveleveling.option.rewards.boss_mob_xp": "Boss Mob XP",
+  "text.autoconfig.passiveleveling.option.rewards.fishing_xp": "Fishing XP",
+  "text.autoconfig.passiveleveling.option.rewards.projectile_xp": "Projectile XP",
+  "text.autoconfig.passiveleveling.option.rewards.gold_absorb_min_xp": "Min. Gold Absorption XP",
+  "text.autoconfig.passiveleveling.option.rewards.gold_absorb_max_xp": "Max. Gold Absorption XP",
+
+  "text.autoconfig.passiveleveling.option.restrictions.lock_recipes_to_tier": "Lock Recipes to Tier",
+  "text.autoconfig.passiveleveling.option.restrictions.lock_recipes_to_tier.@Tooltip": "Prevents crafting better tools until you have leveled up your current one.",
+  "text.autoconfig.passiveleveling.option.restrictions.lock_recipes_to_tier.tooltip": "Prevents crafting better tools until you have leveled up your current one."
+}
